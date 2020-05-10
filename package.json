@@ -1,0 +1,18 @@
+{
+  "name": "commands",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ascii-table": "0.0.9",
+    "cpu-stat": "^2.0.1",
+    "discord.js": "^12.2.0",
+    "gulp-update": "0.0.2",
+    "steamapi": "^2.0.7"
+  }
+}
