@@ -1,0 +1,2 @@
+# tryhostbot
+on heroku
